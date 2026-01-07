@@ -23,3 +23,7 @@ A simple web application built with Java and Spring Boot that demonstrates the b
 1. Clone the repository:
    ```bash
    git clone [https://github.com/matin-valiyev/first-project-java-spring.git](https://github.com/matin-valiyev/first-project-java-spring.git)
+
+These are the Task 1 output:
+![WhatsApp Image 2026-01-07 at 18 04 56](https://github.com/user-attachments/assets/c1d79e4d-4460-4bad-b0ff-b6b7b15c7c0a)
+<img width="1919" height="1013" alt="Screenshot 2026-01-07 012128" src="https://github.com/user-attachments/assets/59d5c71e-8b28-4859-a4b2-8403f7a52f36" />
